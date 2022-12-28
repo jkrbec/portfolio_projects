@@ -1,7 +1,7 @@
 # portfolio_projects
 Snippets and info related to my portfolio projects
 
-##1.) UFC STATS ANALYSIS – INTRO
+## 1.) UFC STATS ANALYSIS – INTRO
 27 years of UFC fights in stats. I focused od the data interpretations.
 1.) I downloaded the data from kaggle.com
 2.) I used <b>MS Excel</b> to format and inspect the dataset <br>
