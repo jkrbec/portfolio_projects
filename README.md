@@ -28,6 +28,9 @@ Snippets and info related to my portfolio projects
 7.) Display the results table and bar chart using Streamlit's built-in functions<br>
 8.) (Optional) Use plotly's customization options to improve the appearance and readability of the chart.<br>
 
+## 2.) UFC STATS ANALYSIS – EVOLUTION OF THE SPORT
+### I solemnly swear I will probably add the description very soon :)
+
 ## Covid Data Dashboard
 
 with the help of Alex Freberg's great tutorial I did following steps and added my own improvements in terms of dataset comparison and interpretation options:<br>
