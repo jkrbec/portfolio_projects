@@ -29,7 +29,7 @@ Snippets and info related to my portfolio projects
 8.) (Optional) Use plotly's customization options to improve the appearance and readability of the chart.<br>
 
 ## 2.) UFC STATS ANALYSIS – EVOLUTION OF THE SPORT
-### I solemnly swear I will probably add the description very soon :)
+### https://www.linkedin.com/pulse/ufc-evolution-data-story-highlights-jaroslav-krbec :)
 
 ## Covid Data Dashboard
 
